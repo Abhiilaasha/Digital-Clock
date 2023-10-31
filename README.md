@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Digital Clock README</title>
+   
 </head>
 <body>
     <h1>Digital Clock</h1>
