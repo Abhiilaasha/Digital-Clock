@@ -23,6 +23,8 @@
 
   <h2>About</h2>
     <p>This project is a simple digital clock created using HTML , Css and Java Script. It's designed to provide a real-time display of the current time in a digital format.</p>
+    <h2> Preview </h2>
+    <a href="https://imgur.com/F8C5X6g"><img src="https://i.imgur.com/F8C5X6g.png" title="source: imgur.com" /></a>
 
   <h2>License</h2>
     <p>This project is licensed under the MIT License.</p>
